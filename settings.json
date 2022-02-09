@@ -1,0 +1,22 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6281934399424",
+	"ownerNumberr": "6281937399424",
+	"cr": "@NathanOfcོ",
+	"ownername": "NathanerropOfcོ",
+	"botname":"PAKUBOT",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"fake": " 「  PAKUBOT  」\nCreated By @NathanerropOfcོ"
+}
